@@ -20,3 +20,4 @@
 }*/
 
 $alert("hi")
+$uwuowo: function() {alert("test")}
